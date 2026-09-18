@@ -1,0 +1,10 @@
+out/
+*.class
+.idea/
+.vscode/
+.project
+.classpath
+.DS_Store
+data/patients.txt
+data/doctors.txt
+data/appointments.txt
